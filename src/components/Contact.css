@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .contact-form {
+    padding-right: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  
+  .contact-form input,
+  .contact-form textarea {
+    border: 1px solid burlywood;
+    display: block;
+    padding: 10px 15px;
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: burlywood;
+  
+  }
+
+  button {
+    background-color: burlywood;
+  }
+
+  h3{
+    text-align: center;
+  }

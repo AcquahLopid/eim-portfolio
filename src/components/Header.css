@@ -1,0 +1,11 @@
+header {
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    z-index: 1;
+    color: whitesmoke;
+    font-family: serif;
+    text-shadow: lightblue 2px 3px;
+    padding-left: 20px;
+  }
+  

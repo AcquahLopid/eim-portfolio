@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+nav {
+    /* background-image: url("../assets/Wood-Background.jpeg"); */
+    background-color: navy;
+    background-size: cover;
+    overflow: hidden;
+    top: 0;
+    left: 0; 
+    width: auto;
+    height: auto;
+  }
+  
+  nav a {
+    float: left;
+    color: whitesmoke;
+    padding: 38px 50px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  nav a:hover {
+    color: lightblue;
+
+  }
+  
+  nav li {
+      float:right;
+      list-style-type: none;
+  }
+  
+  

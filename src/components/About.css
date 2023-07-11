@@ -1,0 +1,53 @@
+body {
+  background-color: RGB(25, 25, 25);
+  margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin-top: 400px;  
+    height: auto;
+  }
+  
+  .title {
+    margin-top: 250px;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: white;
+  }
+  
+  .text {
+    font-size: 1rem;
+    font-style: italic;
+    color: white;
+  }
+  .About-card {
+    margin-top: auto ;
+    width: 600px;
+    height: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: navy;
+    box-sizing: border-box;
+  }
+  .myself {
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}

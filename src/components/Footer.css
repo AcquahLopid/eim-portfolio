@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.myFooter {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .myFooter a {
+    margin: 0 5px; 
+  }
+  
+  

@@ -1,0 +1,51 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+  }
+  
+  .card {
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: burlywood;
+  }
+  
+  .content {
+    margin-bottom: 20px;
+  }
+  
+  .download {
+    display: flex;
+    justify-content: center;
+  }
+
+  .download a {
+    display: inline-block;
+    padding: 10px 15px;
+    font-weight: normal;
+    font-size: 1.6vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    transition: all 1s ease;
+    color: white;
+    background-color: #242451;
+  }
+  
+  .download a:hover {
+    background-color: #0E5259;
+    color: #ffffff;
+    border-radius: 15px;
+    text-shadow: none;
+  }
+  
+  
+  
+  
+  
+  
+  
