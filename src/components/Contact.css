@@ -17,7 +17,7 @@ body {
   
   .contact-form input,
   .contact-form textarea {
-    border: 1px solid burlywood;
+    border: 1px solid #3d5a80;
     display: block;
     padding: 10px 15px;
     font-size: 18px;
@@ -26,14 +26,20 @@ body {
     margin-bottom: 20px;
     margin-top: 5px;
     border-radius: 20px;
-    background-color: burlywood;
+    background-color: #3d5a80;
   
   }
 
   button {
-    background-color: burlywood;
+    background-color: #3d5a80;
   }
 
   h3{
     text-align: center;
+    color:aqua;
+  }
+
+  label{
+    color: #3d5a80;
+    font-size: 20px;
   }
