@@ -4,10 +4,14 @@ body {
 .myFooter {
     display: flex;
     justify-content: center;
+    padding-left: 500px;
   }
   
   .myFooter a {
-    margin: 0 5px; 
+    margin: 0 -230px; 
+
   }
+
+
   
   

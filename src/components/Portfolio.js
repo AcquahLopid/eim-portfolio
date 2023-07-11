@@ -1,9 +1,8 @@
 import React from "react";
 import "./Portfolio.css";
 import Emojify from "../assets/Emojify.gif";
+import Melore from "../assets/Melore gif.gif";
  
-
-
 
 function Portfolio() {
     return (
@@ -23,10 +22,10 @@ function Portfolio() {
                   </a>
                   <a href="https://github.com/samhiga/emojify.git">
                     <img
-                      src={Emojify}
+                      src={Melore}
                       className="my-2 portfolioButton"
                       href="https://samhiga.github.io/emojify/"
-                      style={{ width: "100%" }}
+                      style={{ width: "100%"}}
                       alt="project"
                     />
                   </a>

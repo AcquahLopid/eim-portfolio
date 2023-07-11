@@ -1,78 +1,18 @@
-/* section{
-  position: absolute;
-}
-
-
-
-.repositoryImg img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-
-.repo-img .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: none;
-  background-color: rgba(0, 0, 0, 0.8);
-  color: #fff;
-  padding: 1rem;
+h2{
   text-align: center;
+  margin-top: 100px;
+  color: aqua;
+  font-size: 40px;
 }
-
-.repositoryImg:hover .overlay {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.repositoryImg .overlay h4,
-.repositoryImg .overlay p {
-  margin: 0;
-}
-
-.portfolioButton {
-  padding: 10px 15px;
-  font-weight: normal;
-  font-size: 1.60vw;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  border-radius: 15px;
-  -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  -ms-transition: all 1s ease;
-  transition: all 1s ease;
-  color: white;
-}
-
-.portfolioButton:hover {
-  background: #0E5259;
-  color: #D5F2EA;
-  border-radius: 15px;
-  text-shadow: none;
-} */
-  
 .repository {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 .repositoryImg {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
 }
-/* .repositoryImg {
-  height: 400px;
-  width: 400px;
-  } */
-  /* .repositoryGrid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      grid-gap: 2rem;
-    } */
