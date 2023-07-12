@@ -1,5 +1,5 @@
 body {
-  background-color: RGB(25, 25, 25);
+  background-color: #dcdcdc;
   margin: 0;
 }
 .container {
@@ -16,7 +16,6 @@ body {
     margin-top: 250px;
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: white;
   }
   
   .subtitle {
