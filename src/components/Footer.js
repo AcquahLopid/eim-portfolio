@@ -26,11 +26,11 @@ function Footer(){
                       alt="My Linkedin"
                     />
                 </a>
-                <a href="https://github.com/AcquahLopid">
+                <a href="https://ucb.bootcampcontent.com/emanuelmolina2k-BAsayK">
                     <img
                       src={gitlabLogo}
                       className="my-2 githubButton"
-                      href="https://github.com/AcquahLopid"
+                      href="https://ucb.bootcampcontent.com/emanuelmolina2k-BAsayK"
                       style={{ width: "4%" }}
                       alt="My Github"
                     />

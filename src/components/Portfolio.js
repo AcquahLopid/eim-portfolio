@@ -2,6 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import Emojify from "../assets/Emojify.gif";
 import Melore from "../assets/Melore gif.gif";
+import SmallBusinessPortal from "../assets/Small Business portal.gif";
  
 
 function Portfolio() {
@@ -16,20 +17,29 @@ function Portfolio() {
                       src={Emojify}
                       className="my-2 portfolioButton"
                       href="https://samhiga.github.io/emojify/"
-                      style={{ width: "100%" }}
+                      style={{ width: "100%", height: "82.7%"}}
                       alt="project"
                     />
                   </a>
-                  <a href="https://github.com/samhiga/emojify.git">
+                  <a href="https://github.com/austinzumbro/syncaethesia">
                     <img
                       src={Melore}
                       className="my-2 portfolioButton"
-                      href="https://samhiga.github.io/emojify/"
-                      style={{ width: "100%"}}
+                      href="https://github.com/austinzumbro/syncaethesia"
+                      style={{ width: "100%", height: "82.7%"}}
                       alt="project"
                     />
                   </a>
-                  <a href="https://github.com/samhiga/emojify.git">
+                  <a href="https://github.com/michellebaker1129/small-business-project">
+                    <img
+                      src={SmallBusinessPortal}
+                      className="my-2 portfolioButton"
+                      href="https://github.com/michellebaker1129/small-business-project"
+                      style={{ width: "100%" }}
+                      alt="project"
+                    />
+                  </a>
+                  {/* <a href="https://github.com/samhiga/emojify.git">
                     <img
                       src={Emojify}
                       className="my-2 portfolioButton"
@@ -37,16 +47,7 @@ function Portfolio() {
                       style={{ width: "100%" }}
                       alt="project"
                     />
-                  </a>
-                  <a href="https://github.com/samhiga/emojify.git">
-                    <img
-                      src={Emojify}
-                      className="my-2 portfolioButton"
-                      href="https://samhiga.github.io/emojify/"
-                      style={{ width: "100%" }}
-                      alt="project"
-                    />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
