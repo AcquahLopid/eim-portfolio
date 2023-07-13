@@ -4,6 +4,7 @@ import "./Resume.css"
 function Resume(){
     return (
         <div className="container">
+
         <div className="card">
           <div className="content">
             <p className="content is-medium">Emanuel Molina's Resume</p>

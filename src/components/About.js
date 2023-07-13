@@ -4,6 +4,7 @@ import myPicture from "../assets/Emanuel-blossom.jpeg";
 
 function About() {
     return (
+
     <body>
         <div className="container">
             <img src={myPicture} alt="Emanuel Molina" className="myself"></img>
