@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eim-portfolio/static/css/main.bc6c1edc.css",
+    "main.js": "/eim-portfolio/static/js/main.41b860f1.js",
+    "static/media/Emojify.gif": "/eim-portfolio/static/media/Emojify.f74490df4fd18e688445.gif",
+    "static/media/Melore gif.gif": "/eim-portfolio/static/media/Melore gif.dc858af2fec740ca4bcb.gif",
+    "static/media/Emanuel-blossom.jpeg": "/eim-portfolio/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpeg",
+    "static/media/Small Business portal.gif": "/eim-portfolio/static/media/Small Business portal.96259717f3cbb216e549.gif",
+    "static/media/Emanuel-Molina resume 2021 OLD.pdf": "/eim-portfolio/static/media/Emanuel-Molina resume 2021 OLD.8fe1ea289a158598be21.pdf",
+    "index.html": "/eim-portfolio/index.html",
+    "main.bc6c1edc.css.map": "/eim-portfolio/static/css/main.bc6c1edc.css.map",
+    "main.41b860f1.js.map": "/eim-portfolio/static/js/main.41b860f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6c1edc.css",
+    "static/js/main.41b860f1.js"
+  ]
+}
